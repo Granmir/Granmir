@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas Salame
+- 👀 I’m interested in developing and learning new technologies.
+- 🌱 I’m currently learning Python and JavaScript Fullstack
+- 💞️ I’m looking to collaborate on AI and Web projects
